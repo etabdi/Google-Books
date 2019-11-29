@@ -29,7 +29,7 @@ Libraries/Frameworks used:
     Mongoose
     React-Bootstrap
     React-Router
-    Database Used:
+Database Used:
            MongoDB
 Npm Packages Used:
           Axios
