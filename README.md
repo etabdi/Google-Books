@@ -1,9 +1,6 @@
 # Google-Books
-# All-the-News-That-s-Fit-to-Scrape
 
-
-
-   ![Alt Text](https://github.com/etabdi/Google-Books/blob/master/client/public/bookgoogle.JPG)
+![Alt Text](https://github.com/etabdi/Google-Books/blob/master/client/public/bookgoogle.JPG)
       
       
 
