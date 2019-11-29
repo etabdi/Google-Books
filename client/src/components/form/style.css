@@ -2,9 +2,15 @@
     margin: 60px;
   }
   
-  .book-details {
-    background-color: rgb(140, 151, 153);
+  .form-group{
+    /* background-color: rgb(76, 78, 78); */
     border-radius: 10px;
+    padding: 10px;
+    margin: 10PX;
+    width: 50%;
+    padding:0 5% 0 5% ;
+    color: black;
+    
   }
   
   .book-text {

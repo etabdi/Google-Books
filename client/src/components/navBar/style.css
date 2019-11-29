@@ -1,10 +1,14 @@
 nav {
-    background-color: rgb(10, 3, 70)
+    background-color: rgb(252, 237, 209);
+    position: fixed;
+    top:0px;
+    widows: 100%;
+    color: #000;
 }
 
 a {
     text-decoration: none;
-    color: white
+    color: rgb(15, 14, 14)
 }
  a:hover {
     text-decoration: underline;
@@ -13,8 +17,18 @@ a {
 
 .navbar-brand {
     font-size: 35px;
+    font-style: inherit;
 }
 
 .nav-item {
     font-size: 25px;
+}
+
+h1{
+    color: rgb(0, 0, 17);
+    float: left;
+    font-size: 30PX;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    left:0px;
+
 }

@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import API from "../../utils/API";
+import style from "./style.css";
 
 class Results extends Component {
 
