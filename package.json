@@ -28,13 +28,5 @@
     "react-bootstrap": "^0.32.4",
     "react-dom": "^16.7.0",
     "react-router-dom": "^4.3.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/etabdi/Google-Books.git"
-  },
-  "bugs": {
-    "url": "https://github.com/etabdi/Google-Books/issues"
-  },
-  "homepage": "https://book-google.herokuapp.com/"
+  }
 }
