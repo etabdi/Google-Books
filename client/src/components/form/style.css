@@ -12,6 +12,10 @@
     color: black;
     
   }
+
+  h2{
+    color:burlywood;
+  }
   
   .book-text {
     padding: 1rem;
