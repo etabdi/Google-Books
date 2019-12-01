@@ -7,12 +7,11 @@ class Search extends React.Component {
     state = {
         search: "",
         books: [],
-        error: "",
-        message: ""
+        
     };
 
-    componentDidMount() {
-        this.searchBook();
+    handleInputChange = event => {
+        this.setState({ search: event.target.value })
     }
 
     makeBook = bookData => {
