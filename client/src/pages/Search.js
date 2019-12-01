@@ -11,7 +11,7 @@ class Search extends React.Component {
         message: ""
     };
 
-    handleInputChange = event => {
+     handleInputChange = event => {
         this.setState({ search: event.target.value })
     }
 
