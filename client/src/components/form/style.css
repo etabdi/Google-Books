@@ -14,7 +14,7 @@
   }
 
   h2{
-    color:burlywood;
+    color:rgb(15, 9, 1);
   }
   
   .book-text {
@@ -68,7 +68,7 @@
       left: 0px;
       right: 0px;
       border-radius: inherit;
-      background-color: #fefefe;
+      background-color: #a39f9f;
       transition: all 0.3s;
       -webkit-transform: translateX(-100%);
           -ms-transform: translateX(-100%);
@@ -87,7 +87,7 @@
     
     .button-action:hover,
     .button-action:focus {
-      background-color: #66A3B3;
+      background-color: rgb(2, 21, 26);
     }
     
     .button-action:hover:before,

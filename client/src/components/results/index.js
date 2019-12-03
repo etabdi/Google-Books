@@ -49,7 +49,7 @@ class Results extends Component {
                                                 <div className="col-md-8">
                                                     <a href={result.link} className="btn btn-outline-success" target="_blank" >View</a>
                                                     </div>
-                                                    <button onClick={() => this.handleSave(result)} className="btn btn-outline-primary" >
+                                                    <button onClick={() => this.handleSave(result)} className="btn btn-outline-secondary" >
                                                         {this.state.savedBooks.map(book => book._id).includes(result._id) ? "Unsave" : "Save"}
                                                     </button>
                                                 </div>
